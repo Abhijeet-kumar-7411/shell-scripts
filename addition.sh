@@ -10,4 +10,7 @@ read b
 
 echo "Addition of a and b is $(( a+b ))"
 
+echo "Hello all"
+
+
 
